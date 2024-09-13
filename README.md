@@ -1,2 +1,2 @@
 # Study
-I poke my fingers on the keyboard
+studying data science
